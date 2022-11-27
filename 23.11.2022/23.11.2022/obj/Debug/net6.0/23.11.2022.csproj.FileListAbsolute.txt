@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\bin\Debug\net6.0\23.11.2022.exe
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\bin\Debug\net6.0\23.11.2022.deps.json
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\bin\Debug\net6.0\23.11.2022.runtimeconfig.json
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\bin\Debug\net6.0\23.11.2022.dll
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\bin\Debug\net6.0\23.11.2022.pdb
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.AssemblyInfo.cs
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.dll
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\refint\23.11.2022.dll
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.pdb
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\23.11.2022.genruntimeconfig.cache
+C:\Users\dell\source\repos\23.11.2022\23.11.2022\obj\Debug\net6.0\ref\23.11.2022.dll
