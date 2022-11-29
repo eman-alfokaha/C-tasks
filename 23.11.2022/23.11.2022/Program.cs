@@ -95,7 +95,7 @@
             }
 
         }
-        success_login("marah", "marah1263");
+        success_login("marah", "marah123");
 
        
         //task7
@@ -178,5 +178,6 @@
         Console.WriteLine("Enter a sentence ");
         string sentence = Console.ReadLine();
         Console.WriteLine(" Number of words in that sentence is " + number_of_words(sentence));
+
     }
 }
